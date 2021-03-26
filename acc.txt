@@ -1,0 +1,43 @@
+Types of accounting vouchers in Tally
+1. receipt voucher
+2. payment voucher
+3. sales voucher 
+4. purchase vouvher
+5. sales return voucher
+6. purchase return voucher
+7. control voucher
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Receipt voucher
+Those transactions in which cash or cheque is received except cash sales of goods are recorded i n "receipt voucher".
+in receipt voucher cash or bank a/c is debited
+	for eg
+		a) cash received from B&B (debtors/creditors)  	Rs 10000
+			cash a/c ...............................Dr 	10000
+			   To debtors a/c				10000
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Payment voucher
+All the cash payment or cheque payment except cash purchase of goods are recorded in payment voucher
+in payment voucher == cash or bank a/c is credited
+	For eg	
+		1st april cash payment to suppliers name(creditors)  Rs 20000
+
+			F2 == date change
+
+		2nd april  salary paid for the month of march Rs.30000
+		       	rent paid Rs.10000 through cheque of everest bank cheque no Rs15000
+		       	insurance premium Rs.15000 paid
+		3rd april  purchase a view computer for Rs.25000 and paid through cheque
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Jounal voucher
+All the credit transaction except goods purchase and goods sold on credit a/c are recorded in journal voucher.Cash transaction are not recorded in this voucher.
+	for eg salary of the month Rs.20000 is still payable 
+	sold a computer on credit for Rs. 50000 from A&B finishing on credit
+	service provided but comission is still receivable Rs. 5000
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Purchase voucher
+All the transactions related to purchase goods on cash,cheque or on credit are recorded in purchase voucher    "purchase a/c===always dr."
+e.g.	purchase goods from A&B co. for Rs 40000 on cash
+	purchase goods from ram for Rs 30000 on credit
+	purchase goods of Rs 60000 from sita and paid Rs 25000 as partial payment
+	purchase goods on acc of zenitsu for Rs 25000 
+	
